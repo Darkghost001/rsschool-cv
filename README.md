@@ -1,1 +1,1 @@
-https://Darkghost001.github.io/rsschool-cv/cv
+ https://Darkghost001.github.io/rsschool-cv/
