@@ -12,5 +12,5 @@ Basic knowledge of Java SE + MySQL.
      return (++i % 3 ? '' : 'Fizz' ) + (i % 5 ? '' : 'Buzz') || i;
   }); }
 - Experience: 
-- Education: NTU "KHPI".
+- Education: NTU "KHPI"
 - Knowledge of languages: English - B2, Russian, Ukrainian.
